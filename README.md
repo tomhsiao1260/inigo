@@ -1,0 +1,3 @@
+- [Video](https://www.youtube.com/watch?v=8--5LwHRhjk&t=1128s&ab_channel=InigoQuilez)
+- [ShaderToy](https://www.shadertoy.com/view/WsSBzh)
+- [Article](https://iquilezles.org/articles/)
